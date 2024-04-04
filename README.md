@@ -14,3 +14,8 @@
 srun: Required node not available (down, drained, or reserved)
 srun: job 387 queued and waiting for resources
 ```
+
+* https://github.umn.edu/AHC-OPS/GPUClusterWiki/wiki/
+* /scratch/ahcie-gpu2/CQODE_MHFV
+* https://portunus.ahc.umn.edu/
+* https://confluence.ahc.umn.edu/display/DSV2/Anaconda+Virtual+Environment+Setup+on+Windows
